@@ -1,7 +1,7 @@
 # XTime
 
 [![Reference](https://pkg.go.dev/badge/github.com/eframework-org/EP.GO.UTIL/XTime.svg)](https://pkg.go.dev/github.com/eframework-org/EP.GO.UTIL/XTime)
-[![Release](https://img.shields.io/github/v/release/eframework-org/EP.GO.UTIL)](https://github.com/eframework-org/EP.GO.UTIL/releases)
+[![Release](https://img.shields.io/github/v/tag/eframework-org/EP.GO.UTIL)](https://github.com/eframework-org/EP.GO.UTIL/tags)
 [![Report](https://goreportcard.com/badge/github.com/eframework-org/EP.GO.UTIL)](https://goreportcard.com/report/github.com/eframework-org/EP.GO.UTIL)
 
 XTime 提供了一组时间处理工具函数，支持时间戳转换和格式化等功能。

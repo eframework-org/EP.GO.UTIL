@@ -1,7 +1,7 @@
 # XEnv
 
 [![Reference](https://pkg.go.dev/badge/github.com/eframework-org/EP.GO.UTIL/XEnv.svg)](https://pkg.go.dev/github.com/eframework-org/EP.GO.UTIL/XEnv)
-[![Release](https://img.shields.io/github/v/release/eframework-org/EP.GO.UTIL)](https://github.com/eframework-org/EP.GO.UTIL/releases)
+[![Release](https://img.shields.io/github/v/tag/eframework-org/EP.GO.UTIL)](https://github.com/eframework-org/EP.GO.UTIL/tags)
 [![Report](https://goreportcard.com/badge/github.com/eframework-org/EP.GO.UTIL)](https://goreportcard.com/report/github.com/eframework-org/EP.GO.UTIL)
 
 XEnv 是一个环境配置管理工具，支持多平台识别、应用配置管理、路径管理、命令行参数解析和环境变量求值等功能。

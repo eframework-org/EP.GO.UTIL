@@ -88,7 +88,7 @@
 # <项目名称>
 
 [![Reference](https://pkg.go.dev/badge/<组织名称>/<项目名称>.svg)](https://pkg.go.dev/<组织名称>/<项目名称>)
-[![Release](https://img.shields.io/github/v/release/<组织名称>/<项目名称>)](https://github.com/<组织名称>/<项目名称>/releases)
+[![Release](https://img.shields.io/github/v/tag/<组织名称>/<项目名称>)](https://github.com/<组织名称>/<项目名称>/tags)
 [![Report](https://goreportcard.com/badge/<组织名称>/<项目名称>)](https://goreportcard.com/report/<组织名称>/<项目名称>)
 
 <项目名称> 提供了/是一个/实现了 <核心功能>，支持/用于 <主要特性>。
@@ -122,7 +122,7 @@
 # <模块名称>
 
 [![Reference](https://pkg.go.dev/badge/<组织名称>/<项目名称>/<模块名称>.svg)](https://pkg.go.dev/<组织名称>/<项目名称>/<模块名称>)
-[![Release](https://img.shields.io/github/v/release/<组织名称>/<项目名称>)](https://github.com/<组织名称>/<项目名称>/releases)
+[![Release](https://img.shields.io/github/v/tag/<组织名称>/<项目名称>)](https://github.com/<组织名称>/<项目名称>/tags)
 [![Report](https://goreportcard.com/badge/<组织名称>/<项目名称>)](https://goreportcard.com/report/<组织名称>/<项目名称>)
 
 <模块名称> 提供了/是一个/实现了 <核心功能>，支持/用于 <主要特性>。

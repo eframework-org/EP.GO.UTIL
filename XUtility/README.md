@@ -1,7 +1,7 @@
 # XUtility
 
 [![Reference](https://pkg.go.dev/badge/github.com/eframework-org/EP.GO.UTIL/XUtility.svg)](https://pkg.go.dev/github.com/eframework-org/EP.GO.UTIL/XUtility)
-[![Release](https://img.shields.io/github/v/release/eframework-org/EP.GO.UTIL)](https://github.com/eframework-org/EP.GO.UTIL/releases)
+[![Release](https://img.shields.io/github/v/tag/eframework-org/EP.GO.UTIL)](https://github.com/eframework-org/EP.GO.UTIL/tags)
 [![Report](https://goreportcard.com/badge/github.com/eframework-org/EP.GO.UTIL)](https://goreportcard.com/report/github.com/eframework-org/EP.GO.UTIL)
 
 XUtility 提供了常用的工具函数集，如数值计算、随机数等。

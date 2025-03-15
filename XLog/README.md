@@ -1,7 +1,7 @@
 # XLog
 
 [![Reference](https://pkg.go.dev/badge/github.com/eframework-org/EP.GO.UTIL/XLog.svg)](https://pkg.go.dev/github.com/eframework-org/EP.GO.UTIL/XLog)
-[![Release](https://img.shields.io/github/v/release/eframework-org/EP.GO.UTIL)](https://github.com/eframework-org/EP.GO.UTIL/releases)
+[![Release](https://img.shields.io/github/v/tag/eframework-org/EP.GO.UTIL)](https://github.com/eframework-org/EP.GO.UTIL/tags)
 [![Report](https://goreportcard.com/badge/github.com/eframework-org/EP.GO.UTIL)](https://goreportcard.com/report/github.com/eframework-org/EP.GO.UTIL)
 
 XLog 提供了一个遵循 RFC5424 标准的日志系统，支持多级别日志输出、多适配器管理、日志轮转和结构化标签等特性。

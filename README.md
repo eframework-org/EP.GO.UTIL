@@ -1,7 +1,7 @@
 # EP.GO.UTIL
 
 [![Reference](https://pkg.go.dev/badge/github.com/eframework-org/EP.GO.UTIL.svg)](https://pkg.go.dev/github.com/eframework-org/EP.GO.UTIL)
-[![Release](https://img.shields.io/github/v/release/eframework-org/EP.GO.UTIL)](https://github.com/eframework-org/EP.GO.UTIL/releases)
+[![Release](https://img.shields.io/github/v/tag/eframework-org/EP.GO.UTIL)](https://github.com/eframework-org/EP.GO.UTIL/tags)
 [![Report](https://goreportcard.com/badge/github.com/eframework-org/EP.GO.UTIL)](https://goreportcard.com/report/github.com/eframework-org/EP.GO.UTIL)
 
 EP.GO.UTIL 提供了配置管理、任务调度、日志记录、事件系统、文件处理等基础功能模块。
