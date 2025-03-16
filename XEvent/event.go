@@ -40,8 +40,8 @@ type HndWrap struct {
 var hndWrapPool sync.Pool = sync.Pool{New: func() any { return new(HndWrap) }}
 
 // NewManager 创建一个新的 Manager 实例。
-func NewManager(mutliple bool) *Manager {
-	return &Manager{sync.Mutex{}, mutliple, map[int]*EvtWrap{}}
+func NewManager(multiple bool) *Manager {
+	return &Manager{sync.Mutex{}, multiple, map[int]*EvtWrap{}}
 }
 
 // Clear 清除所有注册的事件和处理程序。
