@@ -131,8 +131,6 @@ random := XString.Random("N", 16)  // 返回：如 "c9a0cad5e9624b3b"
 
 ## 常见问题
 
-更多问题，请查阅[问题反馈](../CONTRIBUTING.md#问题反馈)。
-
 ### 1. 字符串求值中的变量未被替换
 确保变量名称完全匹配，包括 `${}` 符号。例如：
 ```go
@@ -144,6 +142,8 @@ result := XString.Eval("${var}", data)  // 返回："value"
 data := map[string]string{"var": "value"}
 result := XString.Eval("${var}", data)  // 返回："${var}"
 ```
+
+更多问题，请查阅[问题反馈](../CONTRIBUTING.md#问题反馈)。
 
 ## 项目信息
 

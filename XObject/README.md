@@ -93,8 +93,6 @@ err := XObject.FromByte(bytes, &obj)
 
 ## 常见问题
 
-更多问题，请查阅[问题反馈](../CONTRIBUTING.md#问题反馈)。
-
 ### 1. 为什么需要实现构造器接口？
 构造器接口提供了对象初始化的标准方式：
 - 确保对象在创建时正确初始化
@@ -149,6 +147,8 @@ err := XObject.FromByte(bytes, &obj)
    - 及时释放不用的对象
    - 避免大对象的深拷贝
    - 使用 sync.Pool 管理临时对象
+
+更多问题，请查阅[问题反馈](../CONTRIBUTING.md#问题反馈)。
 
 ## 项目信息
 

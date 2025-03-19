@@ -97,8 +97,6 @@ assetPath := XEnv.AssetPath()     // 返回规范化的资产路径
 
 ## 常见问题
 
-更多问题，请查阅[问题反馈](../CONTRIBUTING.md#问题反馈)。
-
 ### 1. 命令行参数格式有什么要求？
 
 命令行参数支持两种格式：
@@ -136,6 +134,8 @@ assetPath := XEnv.AssetPath()     // 返回规范化的资产路径
      ```bash
      ./app --LocalPath=/data/local --AssetPath=/data/assets
      ```
+
+更多问题，请查阅[问题反馈](../CONTRIBUTING.md#问题反馈)。
 
 ## 项目信息
 
