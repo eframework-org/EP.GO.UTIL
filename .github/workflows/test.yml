@@ -10,7 +10,7 @@ on:
 
 jobs:
   test:
-    name: 运行单元测试
+    name: 测试 ${{ matrix.os }} 环境
     runs-on: ${{ matrix.os }}
     strategy:
       matrix:
